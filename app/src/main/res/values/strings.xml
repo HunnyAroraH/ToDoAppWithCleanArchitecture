@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TODOApp With Clean Arch</string>
+    <string name="title">title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort By</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="delete_all">Delete All</string>
+    <string name="falseOf" />
+    <string name="no_data">No Data</string>
+
+
+    <string-array name="priorities">
+        <item>High Priority</item>
+        <item>Medium Priority</item>
+        <item>Low Priority</item>
+    </string-array>
+
+</resources>
